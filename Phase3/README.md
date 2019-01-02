@@ -6,4 +6,4 @@
 * __Meilin Zeng__  email: [mzeng32@gatech.edu](mailto:mzeng32@gatech.edu)
 
 Reference:
-1. Sample submission of phase 3 from CS6400 Fall 2018
+1. Sample submission of phase 3 from CS6400 Fall 2018 of OMSCS program.
