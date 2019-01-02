@@ -1,2 +1,2 @@
-# 6400Fall18Team095
-Repository for 6400Fall18Team095
+# This project is completed together with Baijing Cao and Yingying Bao.
+
