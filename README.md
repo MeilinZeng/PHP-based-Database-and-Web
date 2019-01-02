@@ -1,2 +1,2 @@
-# This project is completed together with Baijing Cao and Yingying Bao.
+This project is completed together with Baijing Cao and Yingying Bao.
 
